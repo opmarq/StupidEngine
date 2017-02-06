@@ -4,7 +4,6 @@ import java.awt.Graphics;
 import java.awt.event.KeyEvent;
 
 import javax.swing.JFrame;
-import javax.swing.plaf.basic.BasicTreeUI.TreeIncrementAction;
 
 public class GameAdapter extends JFrame implements Runnable {
 
